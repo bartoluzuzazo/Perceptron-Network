@@ -19,7 +19,7 @@ for (int i = 0; i < trainingSet.First().Attributes.Count(); i++)
     weights.Add(-5 + random.NextDouble() * 10);
 }
 
-var Layer = new NetworkLayer()
+var layer = new NetworkLayer()
 {
     Perceptrons = labels.Select(label => new Perceptron()
     {
@@ -36,12 +36,20 @@ for (int i = 0; i < 50; i++)
     
     trainingSet = trainingSet.OrderBy(o => random.Next()).ToList();
     
-    Layer.FeedData(trainingSet);
+    layer.FeedData(trainingSet);
 
     testSet.ToList().ForEach(tr =>
     {
         Console.WriteLine("Correct: " + tr.DecisionAttribute);
-        var dec = Layer.Assign(tr);
+        var dec = layer.Assign(tr);
         Console.WriteLine("Answer: " + dec + "\n");
     });
+}
+
+while (true)
+{
+    var line = Console.ReadLine();
+    var newSet = new LanguageSet().Absorb(line).Assignable();
+    Console.WriteLine(layer.Assign(newSet));
+
 }

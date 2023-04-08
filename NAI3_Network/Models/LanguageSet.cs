@@ -4,8 +4,8 @@ namespace NAI3_Network.Models;
 
 public class LanguageSet : Dictionary<char, double>
 {
-    public string Label { get; set; }
-    public LanguageSet(string label)
+    public string? Label { get; set; }
+    public LanguageSet(string? label = null)
     {
         Label = label;
         for(int i = 'a'; i<='z'; i++)
