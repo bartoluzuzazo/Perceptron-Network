@@ -1,0 +1,28 @@
+﻿Das Perzeptron (nach engl. perception, „Wahrnehmung“) ist ein vereinfachtes künstliches neuronales Netz, das zuerst von Frank Rosenblatt 1957 vorgestellt wurde. Es besteht in der Grundversion (einfaches Perzeptron) aus einem einzelnen künstlichen Neuron mit anpassbaren Gewichtungen und einem Schwellenwert. Unter diesem Begriff werden heute verschiedene Kombinationen des ursprünglichen Modells verstanden, dabei wird zwischen einlagigen und mehrlagigen Perzeptren (engl. multi-layer perceptron, MLP) unterschieden. Perzeptron-Netze wandeln einen Eingabevektor in einen Ausgabevektor um und stellen damit einen einfachen Assoziativspeicher dar.
+
+
+Inhaltsverzeichnis
+1	Geschichte
+2	Einlagiges Perzeptron
+2.1	Berechnung der Ausgabewerte
+2.2	Perzeptron-Lernregel
+2.3	XOR-Problem
+2.4	Varianten der Perzeptron-Lernregel
+2.5	Das Perzeptron als linearer Klassifikator
+3	Mehrlagiges Perzeptron
+4	Literatur
+5	Weblinks
+6	Einzelnachweise
+Geschichte
+
+Einfaches Perzeptron, das ein logisches ODER realisiert.
+﻿Input-Neuronen
+﻿Output-Neuron
+1943 führten die Mathematiker Warren McCulloch und Walter Pitts das „Neuron“ als logisches Schwellwert-Element mit mehreren Eingängen und einem einzigen Ausgang in die Informatik ein.[1] Es konnte als Boolesche Variable die Zustände wahr und falsch annehmen und „feuerte“ (= wahr), wenn die Summe der Eingangssignale einen Schwellenwert überschritt (siehe McCulloch-Pitts-Zelle). Dies entsprach der neurobiologischen Analogie eines Aktionspotentials, das eine Nervenzelle bei einer kritischen Änderung ihres Membranpotentials aussendet. McCulloch und Pitts zeigten, dass durch geeignete Kombination mehrerer solcher Neuronen jede einfache aussagenlogische Funktion (UND, ODER, NICHT) beschreibbar ist.
+
+1949 stellte der Psychologe Donald O. Hebb die Hypothese auf, Lernen beruhe darauf, dass sich die aktivierende oder hemmende Wirkung einer Synapse als Produkt der prä- und postsynaptischen Aktivität berechnen lasse.[2] Es gibt Anhaltspunkte, dass die Langzeit-Potenzierung und das sogenannte spike-timing dependent plasticity (STDP) die biologischen Korrelate des Hebbschen Postulates sind. Überzeugende Evidenz für diese These steht aber noch aus.
+
+1957 schließlich publizierte Frank Rosenblatt das Perzeptron-Modell, das bis heute die Grundlage künstlicher neuronaler Netze darstellt.[3]
+
+Einlagiges Perzeptron
+Beim einlagigen Perzeptron gibt es nur eine einzige Schicht aus künstlichen Neuronen, welche zugleich den Ausgabevektor repräsentiert. Jedes Neuron wird dabei durch eine Neuronenfunktion repräsentiert und erhält den gesamten Eingabevektor als Parameter. Die Verarbeitung erfolgt ganz ähnlich zur sogenannten Hebbschen Lernregel für natürliche Neuronen. Allerdings wird der Aktivierungsfaktor dieser Regel durch eine Differenz zwischen Soll- und Istwert ersetzt. Da die Hebbsche Lernregel sich auf die Gewichtung der einzelnen Eingangswerte bezieht, erfolgt also das Lernen eines Perzeptrons durch die Anpassung der Gewichtung eines jeden Neurons. Sind die Gewichtungen einmal gelernt, so ist ein Perzeptron auch in der Lage, Eingabevektoren zu klassifizieren, die vom ursprünglich gelernten Vektor leicht abweichen. Gerade darin besteht die gewünschte Klassifizierungsfähigkeit des Perzeptrons, der es seinen Namen verdankt.

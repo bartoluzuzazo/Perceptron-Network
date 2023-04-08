@@ -1,0 +1,112 @@
+Słońce (łac. Sol, gr. Ἥλιος, trb. Hḗlios; symbol: ☉) – gwiazda centralna Układu Słonecznego, wokół której krąży Ziemia, inne planety tego układu, planety karłowate oraz małe ciała Układu Słonecznego. Słońce składa się z gorącej plazmy utrzymywanej przez grawitację i kształtowanej przez pole magnetyczne. Jest prawie idealnie kuliste[13][14]. Ma średnicę około 1 392 684 km[3], około 109 razy większą niż Ziemia, a jego masa (1,989 ×1030 kg, około 333 tysięcy razy większa niż masa Ziemi (M⊕)) stanowi około 99,86% całkowitej masy Układu Słonecznego[15]. Około trzy czwarte masy Słońca stanowi wodór, resztę głównie hel. Pozostałe 1,69% (co odpowiada około 5600 M🜨) tworzą cięższe pierwiastki, w tym m.in. tlen, węgiel, neon i żelazo[16].
+
+Słońce uformowało się około 4,567 mld lat temu[9] na skutek zapadania grawitacyjnego obszaru w dużym obłoku molekularnym. Większość materii zgromadziła się w centrum, a reszta utworzyła orbitujący wokół niego spłaszczony dysk, z którego ukształtowała się pozostała część Układu Słonecznego. Centralna część stawała się coraz gęstsza i gorętsza, aż w jej wnętrzu rozpoczęła się synteza termojądrowa. Naukowcy sądzą, że niemal wszystkie gwiazdy powstają na skutek tego procesu. Słońce jest typu widmowego G2 V, czyli należy do tzw. żółtych karłów ciągu głównego. Widziane z Ziemi ma barwę białą[17]. Oznaczenie typu widmowego „G2” wiąże się z jego temperaturą efektywną równą 5778 K (5505 °C). Oznaczenie klasy widmowej „V” wskazuje, że Słońce należy do ciągu głównego gwiazd i generuje energię w wyniku fuzji jądrowej, łącząc jądra wodoru w hel. W ciągu sekundy Słońce przetwarza w jądrze około 620 mln ton wodoru[18][19].
+
+Słońce długo było uznawane przez astronomów za małą i stosunkowo niewyróżniającą się gwiazdę. Jednak w 2006 roku oceniano, że jest jaśniejsze niż około 85% gwiazd w Drodze Mlecznej, z których większość jest czerwonymi karłami[20][21]. Badania z 2010 roku pozwalają skorygować tę wartość na 95%[a]. Absolutna wielkość gwiazdowa Słońca wynosi 4,83m, jednak jako gwiazda położona najbliżej Ziemi Słońce jest najjaśniejszym obiektem na niebie o obserwowanej wielkości gwiazdowej równej –26,74m[22][23]. Jest przez to około 13 mld razy jaśniejsze niż następna co do jasności gwiazda, Syriusz, o jasności wizualnej –1,46m. Gorąca korona słoneczna stale rozprasza się w przestrzeni, tworząc wiatr słoneczny, strumień naładowanych cząstek, który rozciąga się do heliopauzy położonej około 100 jednostek astronomicznych od gwiazdy. Heliosfera, bańka w ośrodku międzygwiazdowym utworzona przez wiatr słoneczny, jest największą ciągłą strukturą w Układzie Słonecznym[24][25].
+
+Słońce obecnie przemieszcza się przez Lokalny Obłok Międzygwiazdowy (w pobliżu Obłoku G) w obrębie Bąbla Lokalnego, w wewnętrznej części Ramienia Oriona w galaktyce Drogi Mlecznej[26][27]. Z 50 najbliższych znanych systemów gwiezdnych w promieniu 17 lat świetlnych od Ziemi Słońce zajmuje czwartą pozycję pod względem masy. Gwiazdą znajdującą się najbliżej Słońca jest czerwony karzeł Proxima Centauri, odległy o 4,2 roku świetlnego[28]. Słońce krąży wokół centrum Drogi Mlecznej w odległości około 8 kpc (26 000 lat świetlnych)[10], zgodnie z kierunkiem ruchu wskazówek zegara (patrząc od strony galaktycznego bieguna północnego), z okresem obiegu około 225–250 mln lat. Jako że Droga Mleczna porusza się względem promieniowania tła (CMB) w kierunku konstelacji Hydry z prędkością 550 km/s, wypadkowa prędkość Słońca względem CMB to około 370 km/s w kierunku gwiazdozbioru Pucharu lub Lwa[29].
+
+Odległość Ziemi od Słońca zmienia się podczas ruchu orbitalnego Ziemi, która osiąga peryhelium w styczniu i aphelium w lipcu. Jej średnia długość to około 150 mln km, 1 jednostka astronomiczna[30]. Tę średnią odległość światło pokonuje w ciągu około 8 minut i 19 sekund. Energia słoneczna jest niezbędna dla większości form życia na Ziemi[b], poprzez proces fotosyntezy zasilający najniższy poziom troficzny większości ekosystemów[31][32], a także napędza ziemską pogodę.
+
+Ogromny wpływ Słońca na Ziemię był dostrzegany już w czasach prehistorycznych, a Słońce w wielu kulturach traktowano jako bóstwo. Naukowe zrozumienie funkcjonowania Słońca rozwijało się powoli. Nawet w XIX wieku wybitni naukowcy mieli ograniczone pojęcie o tym, jak zbudowane jest Słońce i co jest źródłem jego energii. Chociaż wiedza na temat Słońca stale się rozwija, wciąż istnieją pewne problemy teoretyczne z wyjaśnieniem zjawisk dziejących się na Słońcu.
+
+
+Spis treści
+1	Nazwa
+2	Charakterystyka
+2.1	Jądro
+2.2	Strefa promienista
+2.3	Strefa konwektywna
+2.4	Fotosfera
+2.5	Atmosfera
+2.6	Pole magnetyczne
+3	Skład chemiczny
+3.1	Jony pierwiastków z grupy żelaza
+3.2	Stosunki izotopów w Słońcu i planetach
+4	Cykle słoneczne
+4.1	Plamy słoneczne i cykl słoneczny
+4.2	Hipotetyczny cykl długookresowy
+5	Etapy ewolucji
+5.1	Powstanie
+5.2	Ciąg główny
+5.3	Ewolucja po zużyciu wodoru w jądrze
+5.4	Los Ziemi
+6	Światło słoneczne na Ziemi
+7	Ruch i położenie
+8	Problemy teoretyczne
+8.1	Ogrzewanie korony
+8.2	Problem słabego, młodego Słońca
+9	Alternatywne modele Słońca
+10	Historia obserwacji
+10.1	Wczesne próby zrozumienia
+10.2	Rozwój poglądów naukowych
+10.3	Misje kosmiczne
+11	Obserwacje i zagrożenia
+12	Zobacz też
+13	Uwagi
+14	Przypisy
+15	Bibliografia
+16	Dalsza literatura
+17	Linki zewnętrzne
+Nazwa
+Nazwy Słońca w językach słowiańskich, w tym języku polskim, wywodzą się od prasłowiańskiego słowa *slnъce[33]. Wyrazy pokrewne polskiemu „słońcu” to m.in. białoruskie сонца, czeskie slunce, rosyjskie солнце, słowackie slnko i ukraińskie сонце.
+
+Podobnie w językach germańskich nazwy wywodzą się od pragermańskiego słowa *sunnōn[34][35]. Przykładami są angielskie sun, niemieckie Sonne i niderlandzkie zon. W mitologii germańskiej bogini Sól/Sunna uosabia Słońce; uczeni na podstawie podobieństwa nazw w różnych językach indoeuropejskich postulują, że bogini ta może wywodzić się od starszego bóstwa praindoeuropejskiego[35]. Podobieństwo wykazują wcześniej wymienione nazwy Słońca w językach słowiańskich i germańskich, a także litewskie saulė i sanskryckie सूर्य (sūrya)[35].
+
+Nazwa „niedziela” w wielu językach wywodzi się od Słońca: angielskie Sunday i niemieckie Sonntag pochodzą od łacińskiego dies Solis, które to określenie jest z kolei tłumaczeniem greckiego ἡμέρα ἡλίου (hēméra hēlíou)[36].
+
+Astronomiczny symbol Słońca to okrąg z punktem w środku: ☉ (Unicode: 2609). Łacińska nazwa Słońca, Sol, jest używana w planetologii dla określenia dnia słonecznego na planetach innych niż Ziemia, np. na Marsie[37].
+
+Charakterystyka
+
+Obraz turbulencji na powierzchni Słońca w dalekim ultrafiolecie. (NASA-SDO).
+2:46
+Film stworzony ze zdjęć sondy Solar Dynamics Observatory opracowanych tak, by wzmocnić widoczność struktur. Film obejmuje 24 h aktywności, 25 września 2011.
+
+Rotacja Słońca na podstawie badań heliosejsmologicznych. Wykres przedstawia częstotliwość obrotu w zależności od odległości od centrum Słońca, wyrażonej w ułamkach promienia, dla różnych szerokości heliograficznych. Szerokość linii odpowiada niepewności pomiarowej.
+ Osobny artykuł: Budowa gwiazdy.
+Słońce to pojedyncza gwiazda typu widmowego G, zawierająca około 99,86% łącznej masy Układu Słonecznego. Jest prawie idealną kulą, ze spłaszczeniem szacowanym na około 9/1000000[38], co oznacza, że jego promień biegunowy różni się od równikowego tylko o 10 km[39]. Siła odśrodkowa na powierzchni na równiku Słońca, wywoływana przez ruch obrotowy, jest 18 mln razy słabsza od siły grawitacji. Wpływ oddziaływań pływowych planet jest jeszcze słabszy i nie wpływa zauważalnie na kształt Słońca[40]. Ponieważ Słońce składa się z plazmy, która nie jest ciałem stałym, jego różne części mogą obracać się z różnymi prędkościami; zachowanie to jest znane jako rotacja różnicowa. Zagadnienie transportu momentu pędu w Słońcu, który powoduje tę rotację, jest złożone – głównym czynnikiem odpowiedzialnym za jego rozprowadzanie w warstwie konwektywnej są naprężenia Reynoldsa, które odpowiadają za przepływ w kierunku południkowym, ale występuje tu więcej czynników, m.in. pole magnetyczne i przepływ baroklinowy[41][42]. Okres rzeczywistego obrotu jest równy około 25,6 dni na równiku i 33,5 dni na biegunach. Jednakże ze względu na ruch orbitalny Ziemi w kierunku zgodnym z obrotem gwiazdy obserwuje się rotację materii na równiku Słońca z okresem 28 dni[43].
+
+Słońce jest przedstawicielem I populacji gwiazd, bogatych w pierwiastki cięższe od helu (w astronomii określane ogólnie jako metale)[c][44]. Proces zapaści obłoku molekularnego, który doprowadził do powstania Słońca, mógł zostać wywołany przez falę uderzeniową pobliskiej eksplozji supernowej[45]. Wskazuje na to duża zawartość metali ciężkich, między innymi złota i uranu, w Układzie Słonecznym w stosunku do zawartości tych pierwiastków w gwiazdach II populacji (ubogich w metale; zob. hasło częstość występowania pierwiastków we Wszechświecie). Najprawdopodobniej te pierwiastki powstawały w endotermicznych reakcjach jądrowych zachodzących podczas wybuchu supernowej lub w procesach przemiany jądrowej przez wychwyt neutronów w masywnych gwiazdach drugiej populacji[44].
+
+Słońce nie ma określonej powierzchni (jaką mają np. planety grupy ziemskiej); w jego zewnętrznych warstwach gęstość gazów spada wykładniczo wraz ze wzrostem odległości od jego centrum[46]. Niemniej jednak ma dobrze określoną strukturę wewnętrzną, opisaną poniżej. Promień Słońca jest mierzony od środka do krawędzi fotosfery. Fotosfera jest ostatnią widoczną warstwą Słońca, jako że wyższe warstwy są zbyt chłodne albo zbyt rozrzedzone, aby emitować wystarczającą ilość światła, by być widoczne gołym okiem[47] w obecności jaskrawego światła pochodzącego z fotosfery. Podczas całkowitego zaćmienia Słońca, gdy fotosfera jest zasłonięta przez Księżyc, można łatwo dostrzec koronę słoneczną.
+
+Wnętrze Słońca nie jest bezpośrednio obserwowalne, a samo Słońce jest nieprzezroczyste dla promieniowania elektromagnetycznego. Jednak – podobnie jak sejsmologia wykorzystuje fale generowane przez trzęsienia ziemi, aby badać wewnętrzną strukturę Ziemi – heliosejsmologia korzysta z fal ciśnienia (infradźwięków) przechodzących przez wnętrze Słońca do badań i wizualizacji wewnętrznej struktury gwiazdy[48]. Również modelowanie komputerowe wykorzystuje się jako narzędzie do testowania zgodności modeli teoretycznych jego głębszych warstw z obserwacjami.
+
+Jądro
+ Osobny artykuł: Jądro gwiazdy.
+
+Budowa wewnętrzna Słońca
+Uważa się, że jądro Słońca rozciąga się od centrum gwiazdy do około 20–25% promienia słonecznego[49]. Ma ono gęstość do około 150 g/cm³[50][51] (około 150 razy większą niż gęstość wody) i temperaturę około 15 mln K[51]. Składa się z plazmy, której głównymi składnikami są elektrony, protony i jądra atomów helu. W tych warunkach elektrony nie są zdegenerowane, a ciśnienie promieniowania niewielkie, plazma zachowuje się jak gaz doskonały[52]. Najnowsze analizy danych uzyskanych przez SOHO wskazują, że jądro obraca się szybciej niż zewnętrzna część strefy promienistej[49]. Przez większość życia Słońca energia jest wytwarzana w procesach syntezy jądrowej w cyklu protonowym; proces ten przekształca wodór w hel[53]. Tylko 0,8% energii wytwarzanej w Słońcu pochodzi z cyklu CNO[54].
+
+Jądro to jedyny obszar Słońca, który wytwarza znaczne ilości energii cieplnej poprzez syntezę jądrową; 99% energii jest generowane w obrębie 24% promienia Słońca, a w odległości od centrum równej 30% promienia synteza nie zachodzi już niemal wcale. Reszta gwiazdy jest ogrzewana przez ciepło przenoszone z jądra na zewnątrz[55][56].
+
+Słońce emituje energię o mocy 384,6 jottawatów (3,846 ×1026 W)[1], co odpowiada 9,192 ×1010 megaton trotylu na sekundę. Energia ta jest równoważna masie 4,26 mln ton; przez promieniowanie Słońce w każdej sekundzie zmniejsza o tyle swą masę. Energia ta powstaje głównie w cyklu protonowym, który zachodzi około 9,2 ×1037 razy w każdej sekundzie. Reakcja ta wykorzystuje cztery wolne protony (jądra wodoru-1), zamienia około 3,7 ×1038 protonów w cząstki alfa (jądra helu) na sekundę (spośród łącznie ok. 8,9 ×1056 wolnych protonów w Słońcu), czyli około 6,2 ×1011 kg na sekundę[57]. Synteza wodoru w hel przekształca około 0,7% jego masy w energię[58].
+
+Wytwarzanie energii przez syntezę w jądrze zmienia się wraz z odległością od środka Słońca. Z modeli symulujących wytwarzanie energii w Słońcu wynika, że w jego centrum jest to około 276,5 W/m³[59]. Jest to niewielka gęstość wytwarzania energii, znacznie mniejsza od gęstości ciepła wytwarzanego w ciele człowieka[d]. Ogromna moc Słońca nie wynika z intensywnego generowania ciepła na jednostkę objętości, ale z jego dużych rozmiarów.
+
+Szybkość syntezy w jądrze jest w stanie równowagi trwałej: większe tempo syntezy spowodowałoby większe nagrzanie jądra i rozszerzenie się pomimo nacisku wyższych warstw, a to zmniejszyłoby szybkość syntezy i skorygowało zaburzenie; podobnie nieco mniejsze tempo spowodowałoby ostygnięcie i skurczenie jądra, zwiększając szybkość syntezy, prowadząc do stanu równowagi[60][61].
+
+Promieniowanie gamma (fotony o bardzo dużej energii) uwalniane w reakcji syntezy jest absorbowane po przebyciu zaledwie kilku milimetrów plazmy słonecznej, a następnie ponownie emitowane w losowym kierunku i z nieco mniejszą energią. Ze względu na to dotarcie promieniowania do powierzchni zajmuje dużo czasu. Oszacowania czasu podróży fotonów mieszczą się w zakresie od 10 000 do 170 000 lat[62]. Z kolei neutrina, które unoszą około 2% energii syntezy, docierają do powierzchni Słońca w zaledwie 2,3 sekundy. Ponieważ transport energii w Słońcu to proces, w którym fotony pozostają w równowadze termodynamicznej z materią, skala czasu transportu energii (mechanizm Kelvina-Helmholtza) w Słońcu jest długa, rzędu 30 000 000 lat. Jest to czas, jaki upłynąłby od wystąpienia zmiany temperatury w jądrze Słońca do przeniesienia tej zmiany na powierzchnię[63].
+
+Reakcje syntezy w jądrze uwalniają także neutrina słoneczne, lecz one w przeciwieństwie do fotonów rzadko oddziałują z materią i prawie wszystkie wydostają się ze Słońca. Przez wiele lat pomiary neutrin słonecznych wykazywały mniejszą ich liczbę, niż wskazywała teoria. Liczba rejestrowanych neutrin elektronowych była 3 razy mniejsza od oczekiwanej. Różnica ta została wyjaśniona w 2001 roku przez odkrycie oscylacji neutrin: Słońce emituje przewidywaną przez teorię liczbę neutrin, ale detektory nie wykrywały 2/3 z nich, dlatego że neutrina zmieniły swoją liczbę kwantową zwaną zapachem (przekształciły się w neutrina mionowe lub taonowe) i stały się niewykrywalne, zanim dotarły do detektorów[64].
+
+Strefa promienista
+ Osobny artykuł: Strefa promienista.
+W warstwach leżących dalej niż 25% promienia słonecznego od środka Słońca nie zachodzi już praktycznie przemiana jądrowa pierwiastków i generowanie ciepła, a jedynie przewodzenie ciepła pochodzącego z jądra, dlatego w stosunku do tych warstw używa się wspólnego określenia otoczka[65]. Według obecnego modelu Słońca pierwszą z nich, licząc od jądra, rozciągającą się do około 70% promienia słonecznego jest warstwa promienista. Materia słoneczna jest w niej wystarczająco gorąca i gęsta, by, podobnie jak w jądrze, składała się z jonów i elektronów. W tych warunkach promieniowanie cieplne jest podstawowym sposobem przekazywania energii z jądra[51]. W strefie tej wraz ze wzrostem odległości od jądra temperatura spada z około 7 do 2 mln kelwinów; odpowiadający tej zmianie gradient temperatury jest mniejszy niż gradient adiabatyczny dla plazmy, dlatego nie zachodzi konwekcja[51]. Przekazywanie energii odbywa się przez oddziaływanie promieniowania cieplnego z cząstkami tworzącymi plazmę; jony wodoru i helu oraz elektrony emitują fotony, które pokonują jedynie niewielki dystans i są pochłaniane przez inne jony[62].
+
+Brak konwekcji w jądrze Słońca i strefie promienistej sprawia, że do strefy „spalania” wodoru nie dopływa nowe paliwo (wodór), także produkty przemian jądrowych nie wypływają w stronę powierzchni. W strefie promienistej gęstość spada stukrotnie, od 20 do 0,2 g/cm³[51].
+
+Strefę promienistą od strefy konwekcyjnej oddziela warstwa przejściowa, tzw. tachoklina. Jest to obszar, w którym zachodzi gwałtowna zmiana charakteru wielkoskalowego ruchu materii pomiędzy jednolitym obrotem w strefie radiacyjnej a rotacją różnicową w strefie konwekcyjnej, co skutkuje dużym ścinaniem – stanem, w którym kolejne poziome warstwy przesuwają się jedna względem drugiej[66]. Ruchy płynu występujące w wyższej strefie konwekcyjnej zanikają powoli w głąb tej warstwy, przy dnie dopasowując się do zachowania strefy promienistej. Istnieje hipoteza, że słoneczne pole magnetyczne jest wytwarzane przez mechanizm dynama magnetohydrodynamicznego w tej strefie przejściowej[51].
+
+Strefa konwektywna
+
+Granule na powierzchni Słońca, dla skali ukazane kontury państw Europy zachodniej i środkowej.
+
+Supergranulacja powierzchni Słońca
+ Osobny artykuł: Strefa konwektywna.
+W zewnętrznej warstwie Słońca, od jego powierzchni do głębokości około 200 000 km (70% promienia słonecznego od centrum), temperatura jest niższa niż w strefie promienistej a cięższe atomy nie są całkowicie zjonizowane. W rezultacie transport ciepła przez promieniowanie jest mniej wydajny. Materiał ogrzewany w tachoklinie, zyskując ciepło, którego nie jest w stanie wypromieniować do wyższych warstw, rozszerza się, przez co zmniejsza się jego gęstość, co pozwala mu unosić się. W rezultacie rozwija się konwekcja termiczna: komórki konwekcyjne wynoszą większość ciepła na zewnątrz, aż do fotosfery. Gdy materia ochłodzi się w fotosferze, jej gęstość wzrasta i opada do podstawy strefy konwektywnej i cykl się powtarza. W fotosferze temperatura spada do 5700 K, a gęstość do 0,2 g/m³ (około 1/6000 gęstości powietrza na poziomie morza)[51].
+
+Kolumny gorącej materii wznoszącej się w strefie konwekcyjnej tworzą ślad na powierzchni Słońca w postaci granulacji powierzchni i supergranulacji. Powierzchnia Słońca pokryta jest komórkami konwekcyjnymi w kształcie wielokątów o rozmiarach rzędu 1000 km zwanych granulami. Jaśniejszy obszar granuli tworzy wznosząca się z prędkością dochodzącą do 1500 km/h gorąca materia z wnętrza Słońca, ciemniejsze linie między granulami to obszary zimniejszej zapadającej się plazmy. Granule różnią się wielkością, jasnością i czasem życia. Istniejące granule zanikają i tworzą się nowe, jedna granula istnieje przez 5–10 min, większe granule istnieją dłużej[67]. W pomiarach dopplerowskich prędkości materii fotosfery ukazuje się struktura o komórkach wielkości ponad 30 000 km zwana supergranulacją, a także komórki konwekcyjne o jeszcze większych rozmiarach, rzędu 200 000 km[68].
+
+Turbulentna konwekcja w zewnętrznej części Słońca powoduje powstanie dynama o małej skali, które generuje lokalne pola magnetyczne o własnych biegunach północnych i południowych rozrzucone po całej powierzchni Słońca[51]. Komórki konwekcyjne na Słońcu są komórkami Bénarda, dlatego przybierają kształt podobny do graniastosłupów sześciokątnych[69].

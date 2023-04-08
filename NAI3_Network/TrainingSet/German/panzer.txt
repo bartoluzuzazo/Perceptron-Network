@@ -1,0 +1,107 @@
+Der Panzer ist ein Kampffahrzeug, das durch Panzerung gegen Beschuss geschützt ist. Die Bezeichnung ist eine Kürzung des ursprünglichen Begriffes „Panzerkampfwagen“, der meist durch Gleisketten beweglich gemacht ist und als Militärfahrzeug meist bewaffnet ist. Darunter fallen der Kampfpanzer, also ein mit einem drehbaren Geschützturm ausgestattetes Kettenfahrzeug, aber auch Panzerfahrzeuge als Radpanzer.
+
+Die charakteristischen Eigenschaften eines Panzers sind der Panzerschutz, Geländegängigkeit als Beweglichkeit durch Geschwindigkeit und Feuerkraft, zwischen deren Eigenschaften Konstrukteure eines Panzers einen auftragsgerechten Kompromiss finden müssen.[1] Die Panzerung besteht meist aus Panzerstahl, zum Teil in Kombination mit Keramik- und Faserverbundkunststoffschichten. Angetrieben werden Panzer heute überwiegend mit Dieselmotoren, teilweise auch mit Gasturbinen, die in Kombination mit dem Rad- oder Kettenlaufwerk eine Geländegängigkeit ermöglichen. Unter Umständen sind eine umfangreiche Sensorik zur Aufklärung oder sonstige technische Vorrichtungen von Bedeutung.
+
+Das Kampf- beziehungsweise Gefechtsgewicht setzt sich aus dem Leergewicht und dem Gewicht von Munition, Treibstoff, Besatzung u. Ä. zusammen.
+
+
+Deutscher Kampfpanzer Leopard 2A5
+
+Sowjetische T-72-Panzer (1983)
+
+Transportpanzer am belgischen Nationalfeiertag
+
+Inhaltsverzeichnis
+1	Begriffe
+2	Typen
+3	Geschichte
+3.1	Anfänge
+3.2	Erster Weltkrieg
+3.3	Zwischen den Weltkriegen
+3.4	Zweiter Weltkrieg
+3.5	Kalter Krieg
+3.6	Bedeutung heute
+4	Technik
+4.1	Panzerung
+4.2	Abstandsaktive Schutzmaßnahmen
+4.3	Bewaffnung
+4.4	Antrieb
+4.4.1	Ottomotoren
+4.4.2	Dieselmotoren
+4.4.3	Vielstoffmotor
+4.4.4	Gasturbinen
+4.4.5	Elektromotoren
+4.5	Mobilität
+4.5.1	Kettenantrieb
+4.5.2	Radantrieb
+4.5.3	Andere Fortbewegungen
+4.6	Sensorik und Sichtsysteme
+4.7	Kommunikation
+4.8	Vernetzung und Computerisierung
+4.9	Tarnung und Verschleierung
+5	Panzerabwehr
+6	Museen
+7	Siehe auch
+8	Literatur
+9	Weblinks
+10	Einzelnachweise
+Begriffe
+Bis in die 1930er-Jahre war noch der Ausdruck Tank üblich, der im englisch- und russischsprachigen Raum weiterhin verwendet wird. Der deutsche Militärwissenschaftler George Soldan schrieb ein Jahrzehnt nach dem Ende des Ersten Weltkriegs:
+
+„Die Bezeichnung ‚Tank‘ war eine geschickte Verschleierung; es sollte der Eindruck erweckt werden, als handele es sich um große fahrbare Brennstoffbehälter. Aus diesem Grund war der moralische Erfolg der plötzlich aus dichtem Nebel auftauchenden und gegen unsere Front zustrebenden, unseren Truppen bis dahin unbekannten ‚Sturmwagen‘ ein erheblicher. Es bot sich etwas ganz Neuartiges mit scheinbarer Unverletzlichkeit.“
+
+– George Soldan[2]
+Selbst in den englischen Fabriken, in denen Teile für die ersten Panzer hergestellt wurden, herrschte die Verschleierung durch das Wort Tank: Die Arbeiter sollten tatsächlich denken, sie würden massive Wassertanks bauen. Panzer waren eine technische Neuentwicklung, die die Militärs so lange wie möglich geheim halten wollten.[3]
+
+In den skandinavischen Ländern führen Panzerfahrzeuge die Bezeichnung stridsvagn/stridsvogn, wörtlich übersetzt „Streitwagen“; damit ergibt sich ein Bezug zum Streitwagen der Antike, zumindest hinsichtlich Einsatz und Verwendung. Auch der israelische Merkava heißt wörtlich übersetzt Streitwagen, ebenso das französische char de bataille.
+
+Typen
+
+Panzerhaubitze M109
+
+Bergepanzer Büffel
+
+Spähpanzer Luchs
+Panzerfahrzeuge können nach verschiedenen Gesichtspunkten kategorisiert werden. Gebräuchlich sind Einsatzzweck, Gewicht und Antriebsart.
+
+Noch bis nach dem Zweiten Weltkrieg kategorisierten viele Armeen nach Gewicht in leichte, mittlere, schwere und überschwere Panzer. Die Gewichtsklassen in den Armeen unterschieden sich und wurden an den Stand der Technik angepasst, sind deshalb nicht miteinander vergleichbar.[4]
+
+Nachfolgend wurden Panzer nach ihrem Einsatzzweck kategorisiert, wobei einige Kategorien nicht fortbestanden, wie z. B. die Unterscheidung von Kampfpanzern in schwere Panzer oder Infanteriepanzer, im Weiteren auch Schützenpanzer und Schützenpanzerwagen. Der Begriff Transportpanzer wandelte sich von einem Kettenfahrzeug zu einem Radpanzer. Außerdem ist eine Zuordnung manchmal schwierig, weil Panzer wiederholt modifiziert wurden oder in ursprünglich nicht vorgesehenen Funktionen erfolgreich waren. So kann das Sturmgeschütz III der deutschen Wehrmacht auch als Jagdpanzer kategorisiert werden, obwohl es als Panzerhaubitze der Panzerartillerie zur unmittelbaren Feuerunterstützung konzipiert wurde.
+
+Die schweren Panzer bzw. nicht realisierte Panzerprojekte wurden in der Anfangszeit des Panzerbaus auch Landkreuzer oder Landschlachtschiffe genannt.[5][6]
+
+Grundsätzlich wird in Kampfpanzer einerseits und Unterstützungspanzer (wie Berge- und Pionierpanzer) andererseits unterschieden. Letztere sind wie Kampfpanzer gepanzert und beweglich, um diesen im Gefecht folgen zu können, sind aber entweder gar nicht oder nur mit Maschinengewehren zur Selbstverteidigung bewaffnet.
+
+Gepanzerte Fahrzeuge werden für verschiedene Zwecke entwickelt und modifiziert. Mögliche Verwendungen sind bzw. waren:
+
+Bergepanzer: meistens unbewaffneter Panzer mit Kränen und starken Winden zur Bergung und Reparatur von beschädigten und stecken oder liegen gebliebenen schweren Fahrzeugen aus Gebieten, in denen mit Feindbeschuss gerechnet werden muss (z. B. Bergepanzer Büffel)
+Brückenlegepanzer: meist unbewaffnete Fahrzeuge, die es ermöglichen, Flüsse und Gräben unter Feindfeuer passierbar zu machen (z. B. Biber)
+Fahrschulpanzer: zur Ausbildung von Panzerfahrern
+Flammpanzer: Panzer zur Bunkerbekämpfung, der als Hauptwaffe mit einem Flammenwerfer ausgestattet ist.
+Flugabwehrpanzer: mit Flugabwehrgeschützen als Flugabwehrkanonenpanzer (z. B. Gepard) oder -flugkörpern als Flugabwehrraketenpanzer (z. B. Roland) gegen tief fliegende Objekte ausgestattet
+Führungspanzer: mit Sensor- und Kommunikationstechnik bestückte Fahrzeuge, meist auf Basis eines Transportpanzers (z. B. Lynx)
+Infanteriepanzer: Kampfpanzer mit geringer Motorleistung und Geschwindigkeit, mit einer auf den Erdkampf, zur direkten Unterstützung der Infanterie, ausgelegten Bewaffnung (z. B. Mark I), deren Rolle seit dem Zweiten Weltkrieg von Kampf-, Schützen- und Artilleriepanzern übernommen wurde
+Jagdpanzer: auf die Bekämpfung anderer Panzer optimierte Panzer, meist mit niedriger Silhouette (ohne Turm) und mit starker Kanone oder Flugkörperbewaffnung. Auftreten während und nach dem Zweiten Weltkrieg (z. B. Jagdpanzer 38(t)). Seitdem wird die Rolle von leichten Panzerjäger-Fahrzeugen, Schützenpanzern sowie Kampfhubschraubern eingenommen.
+Kampfpanzer: optimiert für ein breites Einsatzspektrum zur Unterstützung der Infanterie sowie die Bekämpfung anderer Panzer
+Landungspanzer: Schwimmpanzer, welche von Schiffen aus über das offene Meer an Land fahren (z. B. AAV7)
+Luftlandepanzer: von leichten und kleinen Waffenträgerfahrzeug bis zum Kampfpanzer, mit entsprechend schwachem Schutz und Bewaffnung (z. B. Wiesel, M551 Sheridan, BMD (Panzer)). Durch die kompakten Abmessungen und das geringe Gewicht können diese luftverladen bzw. luftverlastet werden.
+Minenräumpanzer: meist unbewaffnete Fahrzeuge zum Räumen von Landminen, oft Umrüstungen veralteter Kampfpanzer (z. B. Keiler)
+Minenverlegepanzer: Waffensysteme, bei denen auf einem Kettenfahrgestell ein Minenwurfsystem installiert ist.
+Panzerhaubitze: Träger von Haubitzen (z. B. Panzerhaubitze 2000)
+Panzermörser: modifizierte Transport- oder Schützenpanzer, deren Hauptwaffe der Mörser (Granatwerfer) ist.
+Panzerwagen: Ein nur leicht gepanzertes Fahrzeug basierend auf Personenkraftwagen-Technik. Gilt in der Regel nicht als Panzer.
+Pionierpanzer: meist unbewaffnete Fahrzeuge zum Ausführen von Planier- und Baggerarbeiten unter Feindfeuer. Sie dienen dem Räumen und Anlegen von Hindernissen und Deckungen (z. B. Dachs).
+Radaraufklärungspanzer: zum Aufklären des Gefechtsfeldes (z. B. Radaraufklärungspanzer 91-2)
+Raketenpanzer: zum Transport, eventuellen Aufrichten und Abfeuern von Raketen (z. B. MLRS, M474)
+Sanitätspanzer: zur Behandlung und schnellem Abtransport von Verletzten (z. B. Piranha Sanitätspanzer)
+Schützenpanzer: gut geschützter Panzer zum Transport und zur Feuerunterstützung einer Infanteriegruppe, meist nur mit leichter Kanone bewaffnet (z. B. Puma)
+Schwimmpanzer: zur Aufklärung oder für Landeoperationen an Stränden entwickelte Panzerfahrzeuge, die sich gut über Wasser wie auch über Land bewegen können und somit zu den Amphibienfahrzeugen zählen (z. B. AAV7)
+Spähpanzer: schnelle, kleine, geräuscharme, weitreichend fernmeldefähige, nur leicht bewaffnete Fahrzeuge, heute meist als Radpanzer ausgeführt (z. B. Luchs)
+Transportpanzer: höchstens leicht bewaffnete Fahrzeuge mit Platz z. B. für Infanteristen, Verletzte oder Munition und einer Panzerung nur gegen leichte Infanteriewaffen, heute meist als Radpanzer ausgeführt (z. B. Fuchs)
+Waffenträger: leicht gepanzertes Fahrzeug, welches eine Waffe transportiert als auch direkt abfeuern kann; besteht aus einer Panzerwanne und (in den bekannten Fällen) einem leicht gepanzerten, 360° drehbaren Turm; z. B. Rhm.-Borsig Waffenträger oder Ardelt-Waffenträger
+Ähnliche Fahrzeuge haben auch zivile Einsätze, z. B. als
+
+gepanzerte Fahrzeuge zum Werttransport oder Personenschutz,
+Löschpanzer,
+Rettungspanzer zur Evakuierung von Raumfahrern vom Raketenstartplatz während eines Notfalls[7]
+Transportpanzer zum Mannschaftstransport und andere gepanzerte Sonderwagen bei der Polizei.
