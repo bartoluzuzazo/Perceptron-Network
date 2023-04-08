@@ -2,7 +2,7 @@
 using NAI3_Network.Services;
 
 var alpha = Double.Parse(args[0]);
-var testPath = "../../../TestSets";
+var testPath = "../../../TestSet";
 
 var datasets = DataLoader.Load("../../../TrainingSet");
 var trainingSet = datasets.Select(set => set.Assignable());
