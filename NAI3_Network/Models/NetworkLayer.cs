@@ -20,4 +20,9 @@ public class NetworkLayer
         // outs.ToList().ForEach(p=>Console.WriteLine($"{p.Key}: {p.Value}"));
         return outs.Aggregate((p1, p2) => p1.Value>p2.Value?p1:p2).Key;
     }
+
+    public ITrainable? GetByLabel(string label)
+    {
+        return Perceptrons.FirstOrDefault(p => p.Label == label);
+    }
 }

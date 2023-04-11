@@ -1,11 +1,14 @@
 ﻿using NAI3_Network.Models;
 using NAI3_Network.Services;
 
-var alpha = Double.Parse(args[0]);
-var testPath = "../../../TestSet";
+var alpha = double.Parse(args[0]);
+var expectedAccuracy = double.Parse(args[1]);
 
-var datasets = DataLoader.Load("../../../TrainingSet");
-var trainingSet = datasets.Select(set => set.Assignable());
+const string testPath = "../../../TestSet";
+const string trainingPath = "../../../TrainingSet";
+
+var datasets = DataLoader.Load(trainingPath);
+var trainingSet = datasets.Select(set => set.Assignable()).ToList();
 
 var languageTestSet = DataLoader.Load(testPath);
 var testSet = languageTestSet.Select(set => set.Assignable());
@@ -30,26 +33,41 @@ var layer = new NetworkLayer()
     })
 };
 
-for (int i = 0; i < 50; i++)
+var oldWeights = layer.Perceptrons;
+
+for (var i = 0; i < 50; i++)
 {
-    Console.WriteLine($"{i}\n");
-    
+    var correct = 0;
+
+    Console.WriteLine($"Epoch: {i+1}");
+
     trainingSet = trainingSet.OrderBy(o => random.Next()).ToList();
-    
+
     layer.FeedData(trainingSet);
 
     testSet.ToList().ForEach(tr =>
     {
-        Console.WriteLine("Correct: " + tr.DecisionAttribute);
+        // Console.WriteLine("Correct: " + tr.DecisionAttribute);
         var dec = layer.Assign(tr);
-        Console.WriteLine("Answer: " + dec + "\n");
+        // Console.WriteLine("Answer: " + dec + "\n");
+        if (dec == tr.DecisionAttribute) correct++;
+    });
+    var accuracy = (double)correct / testSet.Count();
+    Console.WriteLine($"{accuracy} ({accuracy*100}%)");
+    
+    if (accuracy >= expectedAccuracy) break;
+    
+    oldWeights.ToList().ForEach(p => 
+    { 
+        if (p.Weights.SequenceEqual(layer.GetByLabel(p.Label).Weights)) Console.WriteLine("dupa");
     });
 }
+
+Console.WriteLine("Training complete.");
 
 while (true)
 {
     var line = Console.ReadLine();
     var newSet = new LanguageSet().Absorb(line).Assignable();
     Console.WriteLine(layer.Assign(newSet));
-
 }
