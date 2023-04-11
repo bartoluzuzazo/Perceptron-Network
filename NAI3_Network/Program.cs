@@ -56,11 +56,6 @@ for (var i = 0; i < 50; i++)
     Console.WriteLine($"{accuracy} ({accuracy*100}%)");
     
     if (accuracy >= expectedAccuracy) break;
-    
-    oldWeights.ToList().ForEach(p => 
-    { 
-        if (p.Weights.SequenceEqual(layer.GetByLabel(p.Label).Weights)) Console.WriteLine("dupa");
-    });
 }
 
 Console.WriteLine("Training complete.");
